@@ -27,6 +27,8 @@
 	YBPlayerView *ybPlayerView = [[YBPlayerView alloc] initWithFrame:CGRectMake(0, 0, kScreenWidth, 300) URLString:MM_URL];
 	ybPlayerView.center = CGPointMake(kScreenWidth / 2, 200);
 	[self.view addSubview:ybPlayerView];
+    
+    //test
 	
 	
 }
